@@ -1,7 +1,7 @@
 export default {
-	APP_TITLE: 'HollaEx',
+	APP_TITLE: 'Korhex',
 	APP_SUB_TITLE: 'White Label Cryptocurrency Exchange',
-	APP_NAME: 'HollaEx',
+	APP_NAME: 'Korhex',
 
 	LOGOUT_CONFIRM_TEXT: 'Are you sure?. Do you want to logout',
 	ADD_TRADING_PAIR: 'Add Trading Pair',
